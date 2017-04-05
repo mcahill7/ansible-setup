@@ -19,4 +19,4 @@
     - geerlingguy.homebrew
   tasks:
     - name: Clone repo
-      git: repo=https://github.com/spring-cloud-samples/spring-cloud-contract-samples.git dest=/Users/Maclocal/Apps/ accept_hostkey=yes
+      git: repo=https://github.com/spring-cloud-samples/spring-cloud-contract-samples.git dest=/Users/Maclocal/Apps/spring accept_hostkey=yes
