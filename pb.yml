@@ -5,6 +5,7 @@
       - git
       - ansible
       - wget
+      - gradle
     homebrew_taps:
       - caskroom/cask
       - caskroom/versions
