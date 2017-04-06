@@ -16,6 +16,7 @@ fi
 #brew
 sudo chown -R $(whoami) /usr/local
 sudo chown -R ${USER}:staff /opt/homebrew-cask
+sudo chown -R $(whoami) /usr/local/Cellar
 brew doctor
 brew update
 brew upgrade
