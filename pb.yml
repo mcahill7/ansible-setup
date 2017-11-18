@@ -20,4 +20,4 @@
     - geerlingguy.homebrew
   tasks:
     - name: Clone elis repo
-      git: repo=https://git.uscis.dhs.gov/USCIS/elis-apps.git dest=/Users/{{ansible_user_id}}/ansible/elis accept_hostkey=yes
+      git: repo= dest=/Users/{{ansible_user_id}}/ansible/ accept_hostkey=yes
